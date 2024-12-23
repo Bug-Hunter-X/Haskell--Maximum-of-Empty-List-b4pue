@@ -1,0 +1,2 @@
+# Haskell: Maximum of an Empty List
+This repository demonstrates a common runtime error in Haskell: attempting to find the maximum value of an empty list using the `maximum` function.  The `bug.hs` file contains the erroneous code, which results in a runtime exception. The solution, provided in `bugSolution.hs`, showcases how to handle this situation gracefully using pattern matching or a safe alternative function.
